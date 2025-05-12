@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]!
+# Hi there, I'm Karen!
 
 I'm a recent **Information Technology (Software Engineering)** graduate (cum laude), passionate about building scalable and user-friendly software.
 
@@ -15,8 +15,8 @@ Here are some of the projects I'm working on:
 - [Project 3 Title](GitHub link) - one-line summary
 
 ## 📫 Let's Connect!
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Email: yourname@email.com
+- LinkedIn: Karen Chirindo [LinkedIn URL](https://www.linkedin.com/in/karen-chirindo-65149422a/)
+- Email: karenchirindo28@gmail.com
 
 ---
 
