@@ -10,7 +10,7 @@ I'm a recent **Information Technology (Software Engineering)** graduate (cum lau
 
 ## 🛠️ Projects
 Here are some of the projects I'm working on:
-- [Project 1 Title](GitHub link) - one-line summary
+- [Camera & Security Service Website](https://github.com/yourusername/camera-service-site) – A full website developed for a real client to promote and manage CCTV, intercom, and access control services. Built with HTML, CSS, JavaScript, and PHP.
 - [Project 2 Title](GitHub link) - one-line summary
 - [Project 3 Title](GitHub link) - one-line summary
 
